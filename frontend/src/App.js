@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import axios from "axios";
 import MouseOrb from "./components/MouseOrb";
-import ParticlesBg from "./components/ParticlesBg";
+
 
 const API = "https://docmind-12ms.onrender.com";
 const USER_NAME = "Sai Teja";
@@ -178,7 +178,7 @@ export default function App() {
       
 
       <MouseOrb />
-      <ParticlesBg />
+     
       
       
 
