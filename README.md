@@ -2,7 +2,7 @@
 
 > An AI-powered document assistant built with RAG (Retrieval-Augmented Generation). Upload PDFs, ask questions, get answers grounded in your documents with source citations.
 
-**🔗 Live Demo:** [docmind-mocha.vercel.app](https://docmind-mocha.vercel.app)
+**🔗 Live Demo:** [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://docmind-mocha.vercel.app)
 
 ---
 
