@@ -92,7 +92,7 @@ echo GEMINI_API_KEY=your_key_here > .env
 uvicorn main:app --reload
 ```
 
-Backend runs on `http://localhost:8000`.
+Backend runs on '(https://docmind-12ms.onrender.com/)'.
 
 ### Frontend
 ```bash
